@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -247,8 +246,6 @@ dist
 .pnp.*
 
 # Custom
-=======
->>>>>>> parent of 73c2789 ([Update] Add config to .gitignore)
 Dataset/Videos/*
 */tmp
 */.vscode
