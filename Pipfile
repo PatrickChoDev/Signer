@@ -5,6 +5,9 @@ name = "pypi"
 
 [packages]
 requests = "*"
+tensorflow = "*"
+matplotlib = "*"
+pandas = "*"
 
 [dev-packages]
 autopep8 = "*"
