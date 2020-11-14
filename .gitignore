@@ -368,6 +368,11 @@ app.*.symbols
 
 
 # Custom
-Dataset/Videos/*
+**/*.mp4
+**/*.swf
+**/*.mkv
 */tmp
 */.vscode
+Dataset/*
+!Dataset/WLASL/*
+Dataset/WLASL/raw/start_kit/raw_videos/*

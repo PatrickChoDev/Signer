@@ -8,6 +8,7 @@ requests = "*"
 tensorflow = "*"
 matplotlib = "*"
 pandas = "*"
+jupyter = "*"
 
 [dev-packages]
 autopep8 = "*"
