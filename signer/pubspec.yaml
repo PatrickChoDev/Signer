@@ -29,6 +29,7 @@ dependencies:
   cupertino_icons: ^1.0.0
   splashscreen: any
   camera: ^0.5.8+11
+  speech_to_text: ^3.0.1
 
 
 dev_dependencies:
